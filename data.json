@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "Text field",
+      "label": "Text field",
+      "type": "text"
+    },
+    {
+      "name": "Number field",
+      "label": "Number field",
+      "type": "number"
+    },
+    {
+      "name": "Select field",
+      "label": "Select field",
+      "type": "select",
+      "options": [
+        {
+          "id": 1,
+          "name": "option 1"
+        },
+        {
+          "id": 2,
+          "name": "option 2"
+        },
+        {
+          "id": 3,
+          "name": "option 3"
+        },
+        {
+          "id": 4,
+          "name": "option 4"
+        },
+        {
+          "id": 5,
+          "name": "option 5"
+        }
+      ]
+    },
+    {
+      "name": "Button field",
+      "label": "Button field",
+      "type": "button",
+      "options": [
+        {
+          "id": 1,
+          "name": "option 1"
+        },
+        {
+          "id": 2,
+          "name": "option 2"
+        },
+        {
+          "id": 3,
+          "name": "option 3"
+        }
+      ]
+    }
+  ]
+}
